@@ -1,0 +1,1 @@
+/home/victorra/Documents/workspace/beecrowd/bee-crowd/build/classes/kotlin/main/MainKt.class
