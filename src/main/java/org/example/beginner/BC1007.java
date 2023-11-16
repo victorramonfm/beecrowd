@@ -20,6 +20,7 @@ public class BC1007 {
 
         System.out.printf("DIFERENCA = %d\n", difference);
 
+        scanner.close();
     }
 
 }

@@ -15,6 +15,8 @@ public class BC1004 {
 
         System.out.println("PROD = " + PROD);
 
+        scanner.close();
+
     }
 
 }

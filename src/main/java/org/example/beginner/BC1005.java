@@ -21,6 +21,7 @@ public class BC1005 {
 
         System.out.printf("MEDIA = %.5f\n", mean);
 
+        scanner.close();
     }
 
 }

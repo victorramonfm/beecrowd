@@ -23,6 +23,7 @@ public class BC1006 {
 
         System.out.printf("MEDIA = %.1f\n", mean);
 
+        scanner.close();
     }
 
 }
