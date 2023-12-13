@@ -1,5 +1,3 @@
-package org.example.beginner;
-
 import java.util.Scanner;
 
 public class BEE1001 {

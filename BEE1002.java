@@ -1,9 +1,7 @@
-package org.example.beginner;
-
 import java.util.Locale;
 import java.util.Scanner;
 
-public class BEE1002 {
+public class BEE1002{
 
     public static void main(String[] args) {
 
